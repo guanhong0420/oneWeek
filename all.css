@@ -1,0 +1,134 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+    font-family: Castoro;
+    font-weight: 400;
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+.title{
+    font-size: 128px;
+    width: 370px;
+    line-height: 192px;
+    margin: 160px 0 0 312px;
+}
+.vitoImg{
+    width: 636px;
+    height: 848px;
+    margin: 0 642px;
+    vertical-align: middle;
+}
+.title2{
+    width: 622px;
+    margin: 0 326px 0 972px;
+}
+.content{
+    height: 432px;
+    background-color:#EFEFEF;
+}
+.container{
+    font-size: 32px;
+    line-height: 48px;
+    width: 636px;
+    height: 336px;
+    margin: 0 312px 0 972px;
+    padding: 48px 0; 
+}
+.container2{
+    width: 636px;
+    margin: 80px 972px 0 312px;
+}
+h3{
+    width: 636px;
+    border-bottom:3px solid #AE0000;
+    color: #AE0000;
+    font-size: 40px;
+    line-height: 60px;
+}
+p {
+    font-size: 24px;
+    line-height: 36px;
+}
+.vitoEvans1,.awards1{
+    margin-top: 16px;
+}
+.vitoEvans2{
+    margin-top: 8px;
+}
+.education,.work,.awards{
+    margin-top: 40px;
+}
+.date{
+    font-style: italic;
+    width: 636px;
+    color: #949494;
+    font-size: 20px;
+    line-height: 30px;
+    margin-top: 16px;
+}
+.awards2{
+    margin-top: 12px;
+}
+.footer{
+    box-sizing: border-box;
+    padding: 64px 0;
+    margin-top: 160px;
+    height: 192px;
+    background-color: #000000;
+}
+.container3{
+    width: 281px;
+    margin: 0 auto;
+}
+.container3 img{
+    vertical-align: middle;
+}
+.ig{
+    margin: 0 40px;
+}
+
+
+
+
